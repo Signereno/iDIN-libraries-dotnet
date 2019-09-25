@@ -148,7 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BankId.Merchant.Library\BankId.Merchant.Library.csproj">
-      <Project>{5d4e6e3f-1969-4cbc-9f20-3c9f80a5b74c}</Project>
+      <Project>{136b563a-d32a-4615-84fc-52749e76ccb0}</Project>
       <Name>BankId.Merchant.Library</Name>
     </ProjectReference>
   </ItemGroup>
